@@ -1,0 +1,4 @@
+compare 8Kb Hash of file before comparing full file hash
+add command for deleting or merging: making symbollic link, hardlink duplicate files
+cache hash to avoid recalculating hash file on second run of program
+optimize code
